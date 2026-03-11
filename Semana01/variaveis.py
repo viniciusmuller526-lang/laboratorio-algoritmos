@@ -1,0 +1,8 @@
+nome = "Vinícius"
+idade = 18
+peso = 71.5
+
+print ("Nome: ", nome)
+print ("Idade: ", idade, "anos")
+print ("Peso: ", peso, "Kg")
+print ("Hello World")
