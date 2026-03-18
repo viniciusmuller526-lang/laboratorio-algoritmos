@@ -1,3 +1,5 @@
+# Crux Sacra Sit Mihi Lux
+
 cavalos = float(input("Insira a quantidade de cavalos:"))
 
 valor_total = cavalos * 4 * 80
