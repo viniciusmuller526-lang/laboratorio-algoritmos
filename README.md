@@ -18,7 +18,7 @@ O projeto está estruturado de forma cronológica por semanas acadêmicas, acomp
 | Pasta | Descrição dos Conceitos Aprendidos |
 | :--- | :--- |
 | `Semana01` ao `Semana3` | Conceitos fundamentais, variáveis, operadores matemáticos e estruturas condicionais (`if/else`). |
-| `Semana4, O Inimigo Agora é Outro` ao `Semana9` | Onde o jogo ficou sério! Estruturas de repetição (`while` e `for`) e controle de fluxo complexo. |
+| `Semana4, O Inimigo Agora é Outro` ao `Semana9` |  Estruturas de repetição (`while` e `for`) e controle de fluxo complexo. |
 | `Semana10` ao `Semana11` | Manipulação de listas e introdução a funções. |
 
 ---
